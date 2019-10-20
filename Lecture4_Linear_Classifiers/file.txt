@@ -1,0 +1,7 @@
+
+    Supervised learning p.1-2
+    Part I Linear regression p. 3-4
+    1. LMS algorithm p. 4-7
+    3. Probabilistic interpretation p. 11-13
+    Part II Classification and logistic regression p. 16-19
+
